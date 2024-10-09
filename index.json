@@ -1,1 +1,1 @@
-"name" ""
+"name" "${{ steps.get_version_name.outputs.version }}"
