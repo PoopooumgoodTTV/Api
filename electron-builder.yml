@@ -24,6 +24,6 @@ linux:
   artifactName: "${name}-${version}-linux-${arch}.${ext}"
 publish:
   - provider: github
-    owner: irrvlo
+    owner: Ttvpoopooumgood
     repo: juice-client
     releaseType: draft
